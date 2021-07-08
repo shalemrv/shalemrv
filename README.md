@@ -7,4 +7,4 @@
 - 👀 I’m interested in Full Stack Web Development and mobile native app development.
 - 🌱 I’m currently learning React and Laravel
 
-**`AngularJS v1` `Angular v2+` `PHP` `MySQL` `HTML` `CSS` `Javascript` `React.js` `Node.js` `Express.js` `REST API`**
+**`PHP` `Javascript` `AngularJS v1` `Angular v2+`  `MySQL` `HTML` `CSS` `React.js` `Node.js` `Express.js` `REST API`**
