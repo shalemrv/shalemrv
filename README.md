@@ -2,7 +2,7 @@
 
 # Hi, I’m Shalem Raj `@shalemrv`
 
-#### Portfolio built using **React.js** live at [shalemrv.com](https://www.shalemrv.com)
+#### Portfolio built using **React.js** live at [shalemv.com](https://www.shalemv.com)
 
 - 👀 I’m interested in Full Stack Web Development and mobile native app development.
 - 🌱 I’m currently learning React and Laravel
